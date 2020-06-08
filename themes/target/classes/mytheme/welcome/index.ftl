@@ -18,7 +18,7 @@
 
 <html>
 <head>
-    <title>Welcome to Keycloak</title>
+    <title>Voici Red Hat SSO</title>
     <link rel="shortcut icon" href="welcome-content/favicon.ico" type="image/x-icon">
     <link rel="StyleSheet" href="welcome-content/keycloak.css" type="text/css">
 </head>

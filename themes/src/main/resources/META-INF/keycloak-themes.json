@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "montheme",
+        "types": [ "admin", "account", "login", "welcome" ]
+    }]
+}
